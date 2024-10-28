@@ -16,6 +16,6 @@ The **Recipe Generator with Taste Preferences** aims to create a unique recipe r
 
 ## Collaboration
 
-If you are interested in this project and would like to collaborate, please feel free to reach out via email at [your.email@example.com](mailto:your.email@example.com).
+If you are interested in this project and would like to collaborate, please feel free to reach out via email at [parasparani@gmail.com](mailto:parasparani@gmail.com).
 
 ---
